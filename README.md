@@ -1,1 +1,2 @@
 # intellidash
+Dashboard using Smashing
